@@ -1,0 +1,7 @@
+Questions:
+
+1) Patient Info according to Patient_id
+2) Billing Information
+3) Bed Occpancy Breakdown
+4) Diagnosis-wise Stats
+5) Billing vs Insurance Stats
